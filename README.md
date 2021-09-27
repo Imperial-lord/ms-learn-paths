@@ -1,2 +1,1 @@
-# ms-learn-paths
-A repository having code for all the learning paths I have completed so far in Microsoft Learn
+![ms-learn-paths](https://socialify.git.ci/Imperial-lord/ms-learn-paths/image?description=1&logo=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.3d6a2ad56bc3403c5cfcc3efe09b741b%3Frik%3DgnNKMMZSvZ3uMA%26riu%3Dhttp%253a%252f%252fpurepng.com%252fpublic%252fuploads%252flarge%252fpurepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png%26ehk%3D1%252fl4i5MeDLTCpvZhUZlCefvhSzsGR16HIPqagpDxYDg%253d%26risl%3D%26pid%3DImgRaw%26r%3D0&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
